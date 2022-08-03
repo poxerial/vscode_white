@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Default Light+",
+    "workbench.colorCustomizations": {
+        "activityBar.foreground": "#6a6a6a",
+        "activityBar.background": "#ebebeb",
+        "statusBar.background": "#ebebeb",
+        "statusBar.foreground": "#6a6a6a",
+        "statusBar.debuggingBackground": "#ebebeb",
+        "statusBar.debuggingForeground": "#6a6a6a",
+        "statusBar.noFolderBackground": "#ebebeb",
+        "statusBar.noFolderForeground": "#6a6a6a"
+    }
+}
